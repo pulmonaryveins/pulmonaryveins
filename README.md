@@ -1,4 +1,4 @@
-<h1 align="center">Greetings 👋</h1>
+<h1 align="left">Greetings 👋</h1>
 
 <p align="left">I'm from the Philippines, Cebu City.<br><br>-A Fourth-year Information Technology student.<br>-Aspiring front-end developer.<br><br>-I have a Solid foundation in UI/UX design and graphic design.<br>-I’m passionate about creating visually appealing and user-friendly applications.<br><br>-I’m eager to learn, grow, and collaborate.</p>
 
@@ -27,11 +27,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
-
-![](https://github-readme-stats.vercel.app/api?username=pulmonaryveins&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
- 
- ![](https://nirzak-streak-stats.vercel.app/?user=pulmonaryveins&theme=dark&hide_border=false)<br/>
- 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pulmonaryveins&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-###

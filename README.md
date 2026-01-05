@@ -1,6 +1,6 @@
 <h1 align="left">Greetings 👋</h1>
 
-<p align="left">I'm from the Philippines, Cebu City.<br><br>-A Fourth-year Information Technology student.<br>-Aspiring front-end developer.<br><br>-I have a Solid foundation in UI/UX design and graphic design.<br>-I’m passionate about creating visually appealing and user-friendly applications.<br><br>-I’m eager to learn, grow, and collaborate.</p>
+<p align="left">I'm Vince! from the Philippines, Cebu City.<br><br>-A Fourth-year Information Technology student.<br>-Aspiring front-end developer.<br><br>-I have a Solid foundation in UI/UX design and graphic design.<br>-I’m passionate about creating visually appealing and user-friendly applications.<br><br>-I’m eager to learn, grow, and collaborate.</p>
 
 ###
 
